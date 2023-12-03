@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+.welcome{
+    margin-top: 50px;
+    text-align: center;
+    min-height: 400px;
+    margin-bottom: 50px;
+}
+
+.para1{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.para2{
+    margin-top: 20px;
+}
+
+.logout{
+    margin-top: 80px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(8, 8, 8);
+    padding: 10px;
+}
